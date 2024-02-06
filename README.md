@@ -14,4 +14,6 @@ Kicad diagram and PCB files updated as I go reverse engineering module from pict
 
 2/4/2024: Very VIP, only about 50% there at the moment.
 
-2/4/2024: ~80%, 0 drc errors, 62 violations. Still bad footprints and I havent gotten around to fixing power/ground pins. Whats left is figuring LS244 address buffering mapping, TAG ram address and output pins to edge mapping, WE/CE/OE mapping to edge.
+2/5/2024: ~80%, 0 drc errors, 62 violations. Still bad footprints and I havent gotten around to fixing power/ground pins. Whats left is figuring LS244 address buffering mapping, TAG ram address and output pins to edge mapping, WE/CE/OE mapping to edge.
+
+2/6/2024: 90% there, 0 errors 18 warnings. Just a couple tracks left.
