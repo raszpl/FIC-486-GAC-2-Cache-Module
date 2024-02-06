@@ -8,7 +8,7 @@ Related boards with classic L2 Cache DIP SRAM sockets FIC 486-GAC-V, FIC 486-GIO
 
 majestyk: "FIC sold two different versions with different pinouts (and the same "VLB"-socket). Only the one in the pictures works on a 486-GAC2 and a few other FIC mainboards."
 
-Kicad diagram and PCB files updated as I go reverse engineering module from pictures.
+Kicad diagram and PCB files updated as I go reverse engineering module from pictures. Progress:
 
 02/3/2024: Project start. Figuring out how to make edge connector footprint, searching for SOJ-28L footprint.
 
