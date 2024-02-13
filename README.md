@@ -20,7 +20,7 @@ Incompatible despite also using VLB slot for Cache:
 -----
 Original DOC: 13630 ASSY: 008-0078204 A Cache module:
 
-rev 2.2 [front <img src="P1220276c.jpg" width='200'>](/P1220276.JPG?raw=true), [back <img src="P1220275c.jpg" width='200'>](/P1220275.JPG?raw=true), earlier rev 2 [front <img src="DOC13630c.jpg" width='200'>](/DOC13630.jpg?raw=true)
+rev 2.2 [front <img src="P1220276c.jpg" width='200'>](/P1220276.JPG?raw=true), [back <img src="P1220275c.jpg" width='200'>](/P1220275.JPG?raw=true), rev 2 [front <img src="DOC13630c.jpg" width='200'>](/DOC13630.jpg?raw=true)
 
 [plugged into FIC 486-GAC-2<img src="P1220281c.jpg" width='200'>](/P1220281.JPG?raw=true)
 
