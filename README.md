@@ -38,7 +38,7 @@ This project was only possible with help provided by majestyk - owner of this ve
 
 # Progress report
 
-2/29/2024: [Final Rev 2.4](/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
+3/23/2024: [Final Rev 2.4](/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
 
 2/29/2024: [Final Rev 2.3](/FIC%20486-GAC-2%20cache%20Final%20rev2.3.png). Slightly thicker tracks and silkscreen text, additional clearance work. Shrank from initial prototype, should be almost the height of original. Height when inserted 26.3mm, height including slot 33.6mm. 
 
