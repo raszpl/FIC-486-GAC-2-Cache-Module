@@ -11,7 +11,7 @@ Potentially also:
 - NCR 3231 ?
 - AT&T Globalyst 525 = NCR 3253 ?
 
-Incompatible despite also using VLB slot for Cache:
+Platforms incompatible despite also using VLB slot for Cache:
 - [AT&T Globalyst 550 = NCR 3246](https://theretroweb.com/motherboards/s/atandt,-inc.-at-and-t,-inc.-globalyst-550-c) uses [517-0002811](/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
 - AT&T Globalyst 575 = NCR 3347 uses [517-0002811](/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
 - [HP Vectra VE 4](https://theretroweb.com/motherboards/s/hp-vectra-ve-4-xxx-d3501) uses 256KB D2465A/IDT 7MP6190 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A.webp?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A%20back.webp?raw=true)
@@ -37,6 +37,8 @@ This project was only possible with help provided by majestyk - owner of this ve
 [VESA VLB slot pinout](/VLB_pins.png) [VESA VLB slot dimensions](/vlb-edge-conn.png)
 
 # Progress report
+
+2/29/2024: [Final Rev 2.4](/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
 
 2/29/2024: [Final Rev 2.3](/FIC%20486-GAC-2%20cache%20Final%20rev2.3.png). Slightly thicker tracks and silkscreen text, additional clearance work. Shrank from initial prototype, should be almost the height of original. Height when inserted 26.3mm, height including slot 33.6mm. 
 
