@@ -12,8 +12,8 @@ jobs:
       - name: render pcb images
         uses: linalinn/kicad-render@main
         with:
-        pcb_file: sram.kicad_pcb
-        output_path: ${{ github.workspace }}/images
+          pcb_file: sram.kicad_pcb
+          output_path: ${{ github.workspace }}/images
           
       - name: Setup Pages
         if: github.ref == 'refs/heads/master'
@@ -23,7 +23,7 @@ jobs:
         if: github.ref == 'refs/heads/master'
         uses: actions/upload-pages-artifact@v1
         with:
-        path: "images"
+          path: "images"
 
   deploy-pages:
     if: github.ref == 'refs/heads/master'
