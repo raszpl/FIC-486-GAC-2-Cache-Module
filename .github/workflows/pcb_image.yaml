@@ -12,7 +12,7 @@ jobs:
       - name: render pcb images
         uses: linalinn/kicad-render@main
         with:
-          pcb_file: sram.kicad_pcb
+          pcb_file: sram.kicad_pcb --zoom 2
           output_path: ${{ github.workspace }}/images
           
       - name: Setup Pages
