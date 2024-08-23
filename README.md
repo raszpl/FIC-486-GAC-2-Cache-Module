@@ -14,7 +14,7 @@ Potentially also:
 Platforms incompatible despite also using VLB slot for Cache:
 - [AT&T Globalyst 550 = NCR 3246](https://theretroweb.com/motherboards/s/atandt,-inc.-at-and-t,-inc.-globalyst-550-c) uses [517-0002811](/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
 - AT&T Globalyst 575 = NCR 3347 uses [517-0002811](/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
-- [HP Vectra VE 4](https://theretroweb.com/motherboards/s/hp-vectra-ve-4-xxx-d3501) uses 256KB D2465A/IDT 7MP6190 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A.webp?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A%20back.webp?raw=true)
+- [HP Vectra VE 4](https://theretroweb.com/motherboards/s/hp-vectra-ve-4-xxx-d3501) uses 256KB HP D2465A/IDT 7MP6190 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A.webp?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/HP%20Vectra%20VE%204%20256%20KB%20Cache%20D2465A%20back.webp?raw=true)
 - [Siemens Nixdorf FD200 D882](https://theretroweb.com/motherboards/s/siemens-nixdorf-system-board-d882) uses 256KB cym9252pb [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/Siemens%20Nixdorf%20FD200%20D882%20cym9252pb.JPG?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/Siemens%20Nixdorf%20FD200%20D882%20cym9252pb%20back.JPG?raw=true) and unknown 128KB one.
 - Compaq
   - [ProLinea 4/66 (164560-001)](https://theretroweb.com/motherboards/s/compaq-prolinea-4-66)
@@ -22,6 +22,7 @@ Platforms incompatible despite also using VLB slot for Cache:
   - [Presario 700-900 series](https://theretroweb.com/motherboards/s/compaq-presario-700-900-series-486) all three use 128KB Compaq 197005-001 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20197005-001.jpg?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20197005-001%20back.jpg?raw=true)
   - [Compaq Prosignia VS](https://www.digitaldungeon.be/digitaldungeon/computer/compaq/prosignia-vs_01/prosignia-vs_01.html) uses Sony CXK784862Q-33 based 256KB Compaq 194380-001 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20194380-001.jpg?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20194380-001%20back.jpg?raw=true)
 - [Olivetti M4 454 S](https://theretroweb.com/motherboards/s/olivetti-m4-4x4) uses 128KB CYM9236/256KB CYM9237 [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/CYM9236.jpg?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/CYM9236%20back.jpg?raw=true)
+- [HPE NetServer LC 5/166 (D4861AR)](https://theretroweb.com/motherboards/s/hp-netserver-lc) uses 256KB HP D3322A/IDT 7MP6190 (HP 0960-0899) [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/7MP6152.jpg?raw=true)
 # Resources
 Original DOC: 13630 ASSY: 008-0078204 A Cache module:
 
