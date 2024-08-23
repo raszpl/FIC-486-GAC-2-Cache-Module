@@ -11,7 +11,7 @@ Potentially also:
 - NCR 3231 ?
 - AT&T Globalyst 525 = NCR 3253 ?
 
-**Incompatible** platforms despite also using VLB slot for Cache:
+**Incompatible** platforms also reusing VLB slot for Cache:
 - AT&T
   - [Globalyst 550 = NCR 3246](https://theretroweb.com/motherboards/s/atandt,-inc.-at-and-t,-inc.-globalyst-550-c) 
   - Globalyst 575 = NCR 3347 both use [517-0002811](/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
