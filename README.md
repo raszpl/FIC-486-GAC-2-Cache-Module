@@ -1,5 +1,5 @@
 # FIC-486-GAC-2 Cache Module reproduction
-[<img src="img/rev2.4 assembled prototype c.jpg">](/img/rev2.4%20assembled%20prototype.jpg?raw=true)
+[<img src="img/rev2.4 assembled c.jpg">](/img/rev2.4%20assembled.jpg?raw=true)
 
 [<img src="img/front render c.jpg">](/img/front%20render.png?raw=true) [<img src="img/back render c.jpg">](/img/back%20render.png?raw=true)
 
