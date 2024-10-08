@@ -50,7 +50,7 @@ This project was only possible with help provided by majestyk - owner of this ve
 
 # Status
 
-100%. Manufactured and tested.
+100%. Manufactured and tested. Preliminary design took 8 days. Fixes 2 days.
 
 # Progress report
 4/19/2024: Rev 2.4 assembled by swapping components from Rev 2.2. CACHECHK screenshot.
