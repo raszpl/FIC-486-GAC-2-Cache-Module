@@ -50,16 +50,16 @@ This project was only possible with help provided by majestyk - owner of this ve
 
 # Status
 
-100%. Manufactured and tested. Preliminary design took 8 days. Fixes 2 days.
+100%. Manufactured and tested. Preliminary design took 8 days. Fixes after assembling first prototype 2 days.
 
 # Progress report
 4/19/2024: Rev 2.4 assembled by swapping components from Rev 2.2. CACHECHK screenshot.
 
-[<img src="img/rev2.4 assembled prototype c.jpg" width='300'>](/img/rev2.4%20assembled%20prototype.jpg?raw=true) [<img src="img/rev2.4 cachechk.jpg" width='300'>](/img/rev2.4%20cachechk.jpg?raw=true) [<img src="img/rev2.4 prototype in slot c.jpg" width='300'>](/img/rev2.4%20prototype%20in%20slot.jpg?raw=true)
+[<img src="img/rev2.4 assembled c.jpg" width='300'>](/img/rev2.4%20assembled.jpg?raw=true) [<img src="img/rev2.4 cachechk.jpg" width='300'>](/img/rev2.4%20cachechk.jpg?raw=true) [<img src="img/rev2.4 in slot c.jpg" width='300'>](/img/rev2.4%20in%20slot.jpg?raw=true)
 
 4/15/2024: Rev 2.4 'Pcbs turned up! We have edge connectors this time 😆'
 
-[<img src="img/rev2.4 prototypes c.jpg" width='300'>](/img/rev2.4%20prototypes.jpg?raw=true)
+[<img src="img/rev2.4 c.jpg" width='300'>](/img/rev2.4.jpg?raw=true)
 
 3/23/2024: [Final Rev 2.4](/img/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
 
