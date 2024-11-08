@@ -86,3 +86,7 @@ Will require some finessing with sandpaper to uncover edge slot pads :)
 2/4/2024: Very VIP, only about 50% there at the moment.
 
 02/3/2024: Project start. Figuring out how to make edge connector footprint, searching for SOJ-28L footprint.
+
+-----------------
+# Work for hire
+Interested in having a piece of hardware reverse engineered/cloned? Drop me an [email](https://github.com/raszpl).
