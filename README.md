@@ -1,7 +1,7 @@
 # FIC-486-GAC-2 Cache Module reproduction
 [<img src="img/rev2.4 assembled c.jpg">](/img/rev2.4%20assembled.jpg?raw=true)
 
-[<img src="img/front render c.jpg">](/img/front%20render.png?raw=true) [<img src="img/back render c.jpg">](/img/back%20render.png?raw=true)
+[<img src="img/sram render c.png" width='350'>](/img/sram%20render.png?raw=true) [<img src="img/sram render b c.png" width='350'>](/img/sram%20render%20b.png?raw=true)
 
 Reverse Engineered non standard 256K L2 Cache Module for use in:
 
