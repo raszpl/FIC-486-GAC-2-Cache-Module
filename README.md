@@ -9,9 +9,10 @@ Reverse Engineered non standard 256K L2 Cache Module for use in:
 - AT&T GLOBALYST 515 = NCR 3232 = [FIC 486-GAC-2](https://theretroweb.com/motherboards/s/fic-486-gac-2)
 
 Potentially also:
-- AT&T Globalyst 520 = NCR 3238 = FIC 486-PAK-3 needs confirmation
-- NCR 3231 ?
-- AT&T Globalyst 525 = NCR 3253 ?
+- AT&T Globalyst 520 = NCR 3238 = [FIC 486-PAK-3](https://www.vogons.org/viewtopic.php?t=80951) needs confirmation
+- AT&T Globalyst 530 = NCR 3338 = [FIC 486-PAK-3](https://www.vogons.org/viewtopic.php?t=80951) needs confirmation
+- NCR 3231
+- AT&T Globalyst 525 = NCR 3253
 
 **Incompatible** platforms also reusing VLB slot for Cache:
 - AT&T
@@ -30,7 +31,7 @@ Potentially also:
   - [Deskpro/i Family 3](https://theretroweb.com/motherboards/s/compaq-deskpro-i-family-3-25i-rev-1-p-n-002) uses Intel A82485-33 based 64KB 141345-001 (002581)
   - [Deskpro/i Family 4](https://theretroweb.com/motherboards/s/compaq-deskpro-i-family-4-25is-rev-3-p-n-00) uses Intel A82485-33 based 64KB 141477-001 (002754) [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20002754-001.jpg?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/Compaq%20002754-001%20back.jpg?raw=true)
 # Resources
-Original DOC: 13630 ASSY: 008-0078204 A Cache module:
+Pictures of the original "DOC: 13630" "ASSY: 008-0078204 A" Cache module:
 
 rev 2 [front <img src="img/DOC13630c.jpg" width='200'>](/img/DOC13630.jpg?raw=true)
 
