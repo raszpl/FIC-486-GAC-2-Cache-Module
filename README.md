@@ -30,7 +30,7 @@ Potentially also:
 - [HPE NetServer LC 5/166 (D4861AR)](https://theretroweb.com/motherboards/s/hp-netserver-lc) uses 256KB HP D3322A/IDT 7MP6152 (HP 0960-0899) [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/7MP6152.jpg?raw=true)
 - [Olivetti M4 454 S](https://theretroweb.com/motherboards/s/olivetti-m4-4x4) uses 128KB CYM9236 and 256KB CYM9237PB [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/CYM9236.jpg?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/CYM9236%20back.jpg?raw=true) [with slot](g/not%20compatible%20proprietary%20vlb%20cache%20modules/CYM9236%20and%20slot.jpg?raw=true)
 - [Siemens Nixdorf FD200 D882](https://theretroweb.com/motherboards/s/siemens-nixdorf-system-board-d882) uses 256KB CYM9252PB [front](/not%20compatible%20proprietary%20vlb%20cache%20modules/Siemens%20Nixdorf%20FD200%20D882%20cym9252pb.JPG?raw=true) [back](/not%20compatible%20proprietary%20vlb%20cache%20modules/Siemens%20Nixdorf%20FD200%20D882%20cym9252pb%20back.JPG?raw=true) and unknown 128KB one.
-# Resources
+## Resources
 Pictures of the original "DOC: 13630" "ASSY: 008-0078204 A" Cache module:
 
 rev 2 [front <img src="img/DOC13630c.jpg" width='200'>](/img/DOC13630.jpg?raw=true)
@@ -49,11 +49,11 @@ This project was only possible with help provided by majestyk - owner of this ve
 
 [VESA VLB slot pinout](/doc/VLB_pins.png) [VESA VLB slot dimensions](/doc/vlb-edge-conn.png)
 
-# Status
+## Status
 
 100%. Manufactured and tested. Preliminary design took 8 days. Fixes after assembling first prototype 2 days.
 
-# Progress report
+## Progress report
 4/19/2024: Rev 2.4 assembled by swapping components from Rev 2.2. CACHECHK screenshot.
 
 [<img src="img/rev2.4 assembled c.jpg" width='300'>](/img/rev2.4%20assembled.jpg?raw=true) [<img src="img/rev2.4 cachechk.jpg" width='300'>](/img/rev2.4%20cachechk.jpg?raw=true) [<img src="img/rev2.4 in slot c.jpg" width='300'>](/img/rev2.4%20in%20slot.jpg?raw=true)
