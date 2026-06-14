@@ -1,7 +1,7 @@
 # FIC-486-GAC-2 Cache Module reproduction
-[<img src="img/rev2.4 assembled c.jpg">](/img/rev2.4%20assembled.jpg?raw=true)
+[<img src="img/rev2.4 assembled c.jpg">](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.4%20assembled%20c.jpg)
 
-[<img src="img/sram render c.png" width='350'>](/img/sram%20render.png?raw=true) [<img src="img/sram render b c.png" width='350'>](/img/sram%20render%20b.png?raw=true)
+[<img src="img/sram render c.png" width='350'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/sram%20render.png) [<img src="img/sram render b c.png" width='350'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/sram%20render%20b.png)
 
 Reverse Engineered non standard 256K L2 Cache Module for use in:
 
@@ -33,11 +33,11 @@ Potentially also:
 ## Resources
 Pictures of the original "DOC: 13630" "ASSY: 008-0078204 A" Cache module:
 
-rev 2 [front <img src="img/DOC13630c.jpg" width='200'>](/img/DOC13630.jpg?raw=true)
+rev 2 [front <img src="img/DOC13630c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/DOC13630.jpg)
 
-rev 2.1 [front <img src="img/P1220276c.jpg" width='200'>](/img/P1220276.JPG?raw=true), [back <img src="img/P1220275c.jpg" width='200'>](/img/P1220275.JPG?raw=true)
+rev 2.1 [front <img src="img/P1220276c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/P1220276.JPG), [back <img src="img/P1220275c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/P1220275.JPG)
 
-[plugged into FIC 486-GAC-2<img src="img/P1220281c.jpg" width='200'>](/img/P1220281.JPG?raw=true)
+[plugged into FIC 486-GAC-2<img src="img/P1220281c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/P1220281.JPG)
 
 -----
 Vogons [FIC 486-GAC-2 and proprietary cache module](https://www.vogons.org/viewtopic.php?f=46&t=94550) thread:
@@ -56,33 +56,33 @@ This project was only possible with help provided by majestyk - owner of this ve
 ## Progress report
 4/19/2024: Rev 2.4 assembled by swapping components from Rev 2.2. CACHECHK screenshot.
 
-[<img src="img/rev2.4 assembled c.jpg" width='300'>](/img/rev2.4%20assembled.jpg?raw=true) [<img src="img/rev2.4 cachechk.jpg" width='300'>](/img/rev2.4%20cachechk.jpg?raw=true) [<img src="img/rev2.4 in slot c.jpg" width='300'>](/img/rev2.4%20in%20slot.jpg?raw=true)
+[<img src="img/rev2.4 assembled c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.4%20assembled.jpg) [<img src="img/rev2.4 cachechk.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.4%20cachechk.jpg) [<img src="img/rev2.4 in slot c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.4%20in%20slot.jpg)
 
 4/15/2024: Rev 2.4 'Pcbs turned up! We have edge connectors this time 😆'
 
-[<img src="img/rev2.4 c.jpg" width='300'>](/img/rev2.4.jpg?raw=true)
+[<img src="img/rev2.4 c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.4.jpg)
 
-3/23/2024: [Final Rev 2.4](/img/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
+3/23/2024: [Final Rev 2.4](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20Final%20rev2.4.png). Reworked SRAM footprint for easier hand soldering, slightly optimized capacitor placement.
 
-2/29/2024: [Final Rev 2.3](/img/FIC%20486-GAC-2%20cache%20Final%20rev2.3.png). Slightly thicker tracks and silkscreen text, additional clearance work. Shrank from initial prototype, should be almost equal height of original. Height when inserted 26.3mm, height including slot 33.6mm. 
+2/29/2024: [Final Rev 2.3](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20Final%20rev2.3.png). Slightly thicker tracks and silkscreen text, additional clearance work. Shrank from initial prototype, should be almost equal height of original. Height when inserted 26.3mm, height including slot 33.6mm. 
 
 2/28/2024: Prototypes assembled after sanding off soldermask from edge slot contacts, didnt work at first try. Turns out I swapped few power/ground pins in the connector resulting in dead short. Great sleuthing by Miisalo uncovered this mishap, after cutting bad connections we have sucessfull boot.
 
-[<img src="img/rev2.2 assembled prototype c.jpg" width='300'>](/img/rev2.2%20assembled%20prototype.jpg?raw=true) [<img src="img/bootc.jpg" width='300'>](/img/boot.jpg?raw=true)
+[<img src="img/rev2.2 assembled prototype c.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.2%20assembled%20prototype.jpg) [<img src="img/bootc.jpg" width='300'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/boot.jpg)
 
 2/27/2024: Prototypes arrived. Who can spot the problem?
 
-[<img src="img/rev2.2 prototypes c.jpg">](/img/rev2.2%20prototypes.jpg?raw=true) [<img src="img/rev2.2 prototype in slot c.jpg">](/img/rev2.2%20prototype%20in%20slot.jpg?raw=true)
+[<img src="img/rev2.2 prototypes c.jpg">](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.2%20prototypes.jpg) [<img src="img/rev2.2 prototype in slot c.jpg">](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/rev2.2%20prototype%20in%20slot.jpg)
 
 Will require some finessing with sandpaper to uncover edge slot pads :)
 
-2/11/2024: [99% done](/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2099%25.png), ERC&DRC 0 errors 0 warnings. Footprints should be correct now. Gerbers sent for manufacturing.
+2/11/2024: [99% done](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2099%25.png), ERC&DRC 0 errors 0 warnings. Footprints should be correct now. Gerbers sent for manufacturing.
 
-2/8/2024: [95% there](/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2095%25.png), 0 errors, 7 Warnings. 5 connections missing, 11 guesses and assumptions on U1 U2 and some more on common lines.
+2/8/2024: [95% there](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2095%25.png), 0 errors, 7 Warnings. 5 connections missing, 11 guesses and assumptions on U1 U2 and some more on common lines.
 
-2/6/2024: [90% there](/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2090%25.png), 0 errors 18 warnings. Just a couple tracks left.
+2/6/2024: [90% there](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2090%25.png), 0 errors 18 warnings. Just a couple tracks left.
 
-2/5/2024: [80% there](/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2080%25.png), 0 drc errors, 62 violations. Still bad footprints and I havent gotten around to fixing power/ground pins. Whats left is figuring LS244 address buffering mapping, TAG ram address and output pins to edge mapping, WE/CE/OE mapping to edge.
+2/5/2024: [80% there](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/FIC%20486-GAC-2%20cache%20coast%20VIP%2080%25.png), 0 drc errors, 62 violations. Still bad footprints and I havent gotten around to fixing power/ground pins. Whats left is figuring LS244 address buffering mapping, TAG ram address and output pins to edge mapping, WE/CE/OE mapping to edge.
 
 2/4/2024: Very VIP, only about 50% there at the moment.
 
