@@ -9,14 +9,14 @@ Reverse Engineered non standard 256K L2 Cache Module for use in:
 - AT&T GLOBALYST 515 = NCR 3232 = [FIC 486-GAC-2](https://theretroweb.com/motherboards/s/fic-486-gac-2)
 
 Potentially also:
-- AT&T Globalyst 520 = NCR 3238 = [FIC 486-PAK-3](https://theretroweb.com/motherboards/s/fic-486-pak-3)/[Vogons repair thread](https://www.vogons.org/viewtopic.php?t=80951) needs confirmation
+- AT&T Globalyst 520 = NCR 3238 = [FIC 486-PAK-3](https://theretroweb.com/motherboards/s/fic-486-pak-3)/[Vogons: What´s wrong with this FIC 486 PAK-3 ??](https://www.vogons.org/viewtopic.php?t=80951) needs confirmation
 - AT&T Globalyst 530 = NCR 3338 = [FIC 486-PAK-3](https://theretroweb.com/motherboards/s/fic-486-pak-3) needs confirmation
 - NCR 3231
 - AT&T Globalyst 525 = NCR 3253
 
 **Incompatible** platforms also reusing VLB slot for Cache:
 - AT&T
-  - pre 1993 Globalyst name change [NCR MODEL 3230 (A4923 ISA)](https://theretroweb.com/motherboards/s/ncr-model-3230-a4923-isa) Uses VLB slot form factor, but in an edge connector form [Vogons NCR 3230-7020 486 DX 33 System - Cache question?](https://www.vogons.org/viewtopic.php?p=1447953#p1447953)
+  - pre 1993 Globalyst name change [NCR MODEL 3230 (A4923 ISA)](https://theretroweb.com/motherboards/s/ncr-model-3230-a4923-isa) Uses VLB slot form factor, but in an edge connector form [Vogons: NCR 3230-7020 486 DX 33 System - Cache question?](https://www.vogons.org/viewtopic.php?p=1447953#p1447953)
   - [Globalyst 550 = NCR 3246](https://theretroweb.com/motherboards/s/at-t-globalyst-550-class-3246) 
   - Globalyst 575 = NCR 3347 both use [517-0002811](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/refs/heads/main/not%20compatible%20proprietary%20vlb%20cache%20modules/ATT-Globalyst_550_575.jpg)
 - Compaq
@@ -41,7 +41,7 @@ rev 2.1 [front <img src="img/P1220276c.jpg" width='200'>](https://raw.githubuser
 [plugged into FIC 486-GAC-2<img src="img/P1220281c.jpg" width='200'>](https://raw.githubusercontent.com/raszpl/FIC-486-GAC-2-Cache-Module/main/img/P1220281.JPG)
 
 -----
-Vogons [FIC 486-GAC-2 and proprietary cache module](https://www.vogons.org/viewtopic.php?f=46&t=94550) thread:
+[Vogons: FIC 486-GAC-2 proprietary cache module - open source reproduction *Completed*](https://www.vogons.org/viewtopic.php?f=46&t=94550) thread:
 >majestyk: "FIC sold two different versions with different pinouts (and the same "VLB"-socket). Only the one in the pictures works on a 486-GAC2 and a few other FIC mainboards."
 
 This project was only possible with help provided by majestyk - owner of this very rare Cache module, and RockstarRunner - FIC 486-GAC-2 owner looking for said Cache module. Huge thanks for taking time to capture high resolution pictures and validating progress with measurements.
